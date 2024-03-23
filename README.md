@@ -1,12 +1,12 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# Meal Splitter & Tip Calculator
+# Bill Buddy
 
 Created by: **Tahmid Hussan**
 
 ## Summary
 
-**Meal Splitter & Tip Calculator** is an android app that **calculates the tip amount for a meal and splits the total amount by the number of people. The default tip amount is set at 15%, but the user can write in a custom tip percent.**
+**Bill Buddy** is an android app that **calculates the tip amount for a meal and splits the total amount by the number of people. The default tip amount is set at 15%, but the user can write in a custom tip percent.**
 
 
 ## Video Demo
