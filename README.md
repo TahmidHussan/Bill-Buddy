@@ -8,15 +8,6 @@ Created by: **Tahmid Hussan**
 
 **Bill Buddy** is an android app that **calculates the tip amount for a meal and splits the total amount by the number of people. The default tip amount is set at 15%, but the user can write in a custom tip percent.**
 
-
-## Video Demo
-
-Here's a video / GIF that demos all of the app's implemented features:
-
-<img src='https://i.imgur.com/7q23zli.gif' title='Video Demo' width='' alt='Video Demo' />
-
-GIF created with **ScreenToGif**
-
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
